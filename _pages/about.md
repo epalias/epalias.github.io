@@ -22,13 +22,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoc fellow in the School of Computer Science at the University of Birmingham. Previously I obtained my PhD in Computer Science under the supervision of Ata Kaban. Before that, I received a BSc and an MSc in Statistics and Data Science at the Athens University of Economics and Business.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span [Statistical Learning Theory](/https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf/) and [Quantum Information](/https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf/). Broadly speaking I study Machine Learning algorithms from a theoretical point-of-view, and I aim to discover properties of the data, that make an algorithm learn easier. I am interested in aspects such as the sample complexity (i.e. how many samples we need for an efficient learning), and regularisation methods (i.e. how can we constrain the hypothesis class to prevent overfitting). My commonly used mathematical tools are borrowed from [Linear Algebra](/https://www.studyhalo.com/media/resources/resources/MAT1503/Textbook/MAT1503_-_Prescribed_book.pdf/), [High-Dimensionsl Probability](/https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf/). Recently, I narrowed my focus predominately on Quantum Machine Learning, working with complex-valued quantum data.
