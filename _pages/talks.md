@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: 
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 🎤 **June 2026**: Presentation of my accepted paper at ISIT 2026, Guangzhou, China
