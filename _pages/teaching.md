@@ -8,4 +8,5 @@ nav_order: 2
 calendar: false
 ---
 
-{% include courses.liquid %}
+📌 **Artificial Intelligence and Machine Learning**, University of Birmingham, MSc Computer Science, Summer 2026
+📌 **Computer Systems**, University of Birmingham, MSc Computer Science, Summer 2026
