@@ -1,28 +1,15 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+layout: page
+permalink: /talks/
+title: talks
+description: 
+nav: true
+nav_order: 3
+calendar: false
 ---
+
+📌 **June 2026**: Presentation of my accepted paper at ISIT 2026, Guangzhou, China
+
+📌 **February 2026**: Using AI Tools in Research, University of Birmingham
+
+📌 **November 2024**: Presentation of PhD thesis, University of Warwick
