@@ -1,13 +1,14 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /talks/
+title: talks
 description: 
 nav: true
-nav_order: 2
-calendar: false
+nav_order: 3
 ---
 
-📌 **Artificial Intelligence and Machine Learning**, University of Birmingham, MSc Computer Science, Summer 2026
+📌 **June 2026**: Presentation of my accepted paper at ISIT 2026, Guangzhou, China
 
-📌 **Computer Systems**, University of Birmingham, MSc Computer Science, Summer 2026
+📌 **February 2026**: Using AI Tools in Research, University of Birmingham
+
+📌 **November 2024**: Presentation of PhD thesis, University of Warwick
