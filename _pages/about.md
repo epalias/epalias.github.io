@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoc fellow in the School of Computer Science at the University of Birmingham. Previously I obtained my PhD in Computer Science under the supervision of Ata Kaban. Before that, I received a BSc and an MSc in Statistics and Data Science at the Athens University of Economics and Business.
+I am a postdoc fellow in the School of Computer Science at the University of Birmingham. Previously I obtained my PhD in Computer Science under the supervision of Ata Kaban. Before that, I received a BSc and an MSc in Statistics and Data Science at the Athens University of Economics and Business. My CV can be found [here](\assets\pdf\CV.pdf).
 
 My research interests span Statistical Learning Theory and Quantum Information. Broadly speaking I study Machine Learning algorithms from a theoretical point-of-view, and I aim to discover properties of the data, that make an algorithm learn easier. I am interested in aspects such as the sample complexity (i.e. how many samples we need for an efficient learning), and regularisation methods (i.e. how can we constrain the hypothesis class to prevent overfitting). My commonly used mathematical tools are borrowed from Linear Algebra and High-Dimensional Probability. Recently, I narrowed my focus predominately on Quantum Machine Learning, working with complex-valued quantum data.
