@@ -1,0 +1,11 @@
+---
+layout: course
+title: Computer Systems
+description: This course covers the fundamental principles of computer systems, including how information is represented in computers, how computer programs are executed, the relationship between software and hardware, reasoning about the time complexity of programs, and the foundations of operating systems and network technologies.
+instructor:
+year: 2026
+term: Summer
+location:
+time:
+course_id:
+schedule:
