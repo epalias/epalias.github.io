@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Computer Science</p>
     <p>University of Birmingham</p>
-    <p>United Kingdom</p>
+    <p>School of Computer Science</p>
+    <p>Room 234, 2nd floor</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,4 +29,7 @@ latest_posts:
 
 I am a postdoc fellow in the School of Computer Science at the University of Birmingham. Previously, I obtained my PhD in Computer Science under the supervision of Prof. Ata Kabán. Before that, I received a BSc and an MSc in Statistics and Data Science at the Athens University of Economics and Business. My CV can be found [here](\assets\pdf\CV.pdf).
 
-My research interests span [Statistical Learning Theory](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf) and [Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf). Broadly speaking, I study Machine Learning algorithms from a theoretical viewpoint, and I aim to discover geometric properties on the data, that make an algorithm learn better. I am interested in aspects such as sample complexity, i.e., how many samples we need for an efficient learning, and regularisation methods, i.e., how can we constrain the hypothesis class to prevent overfitting. My commonly used mathematical tools are borrowed from [Linear Algebra](https://www.studyhalo.com/media/resources/resources/MAT1503/Textbook/MAT1503_-_Prescribed_book.pdf) and [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf). Recently, I narrowed my focus predominately on [Quantum Machine Learning](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) and [Quantum Information](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf), working with complex-valued quantum data.
+My research interests span [Statistical Learning Theory](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf) and [Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf). Broadly speaking, I study Machine Learning algorithms from a theoretical viewpoint, and I aim to discover geometric properties on the data, that make an algorithm learn better. I am interested in aspects such as sample complexity, i.e., how many samples we need for an efficient learning, and regularisation methods, i.e., how can we constrain the hypothesis class to prevent overfitting. My commonly used mathematical tools are borrowed from [Linear Algebra](https://www.studyhalo.com/media/resources/resources/MAT1503/Textbook/MAT1503_-_Prescribed_book.pdf) and [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf).
+
+Recently, I narrowed my focus predominately on [Quantum Information](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf) and [Quantum Channels](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf), working with complex-valued quantum data. I am currently investigating the capacity of channels to reliably transfer information, and how does this capacity determine the learnability of a channel.
+<!--My AISTATS 2027 paper is a good representative of my current research. Check it out below :arrow_down_small: -->
