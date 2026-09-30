@@ -12,7 +12,7 @@ profile:
     <p>University of Birmingham</p>
     <p>School of Computer Science</p>
     <p>Room 234, 2nd floor</p>
-    <p>Email: e.palias (at) bham.ac.uk</p>
+    <p>e.palias (at) bham.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
