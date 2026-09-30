@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Birmingham</p>
-    <p>School of Computer Science</p>
-    <p>Room 234, 2nd floor</p>
-    <p>e.palias (at) bham.ac.uk</p>
+    <p>🎓 University of Birmingham</p>
+    <p>🏢 School of Computer Science</p>
+    <p>🚪 Room 234, 2nd floor</p>
+    <p>📧 e.palias (at) bham.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
