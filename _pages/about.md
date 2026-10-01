@@ -34,4 +34,4 @@ My research interests span [Statistical Learning Theory](https://www.hlevkin.com
 
 Recently, I narrowed my focus predominately on [Quantum Information](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf) and [Quantum Channels](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf), working with complex-valued quantum data. I am currently investigating the capacity of channels to reliably transfer information, and how does this capacity determine the learnability of a channel.
 
-My AISTATS 2027 paper is a good representative of my current research. Check it out below! :arrow_down:
+<!-- My AISTATS 2027 paper is a good representative of my current research. Check it out below :arrow_down:-->
